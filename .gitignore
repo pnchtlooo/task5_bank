@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.idea/workspace.xml
+.idea/shelf/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
